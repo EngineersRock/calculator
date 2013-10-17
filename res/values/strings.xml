@@ -11,5 +11,7 @@
     <color name="orange5">#CC6600</color>
     <color name="blue2">#0000FF</color>
     <color name="blue25">#00CCFF</color>
+    <color name="purple">#660066</color>
+    <color name="pink">#CC0099</color>
 
 </resources>

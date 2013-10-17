@@ -16,6 +16,8 @@ public final class R {
         public static final int grey05=0x7f060002;
         public static final int orange4=0x7f060003;
         public static final int orange5=0x7f060004;
+        public static final int pink=0x7f060008;
+        public static final int purple=0x7f060007;
         public static final int yellow1=0x7f060000;
         public static final int yellow2=0x7f060001;
     }
@@ -35,27 +37,27 @@ public final class R {
     }
     public static final class id {
         public static final int action_settings=0x7f090017;
-        public static final int button11=0x7f090002;
-        public static final int button12=0x7f090003;
-        public static final int button13=0x7f090004;
-        public static final int button14=0x7f090005;
-        public static final int button21=0x7f090006;
-        public static final int button22=0x7f090007;
-        public static final int button23=0x7f090008;
-        public static final int button24=0x7f090009;
-        public static final int button31=0x7f09000a;
-        public static final int button32=0x7f09000b;
-        public static final int button33=0x7f09000c;
-        public static final int button34=0x7f09000d;
-        public static final int button41=0x7f09000e;
-        public static final int button42=0x7f09000f;
-        public static final int button43=0x7f090010;
-        public static final int button44=0x7f090011;
-        public static final int button51=0x7f090012;
-        public static final int button52=0x7f090013;
-        public static final int button53=0x7f090014;
-        public static final int button54=0x7f090015;
-        public static final int button61=0x7f090016;
+        public static final int button0=0x7f090012;
+        public static final int button1=0x7f09000e;
+        public static final int button2=0x7f09000f;
+        public static final int button3=0x7f090010;
+        public static final int button4=0x7f09000a;
+        public static final int button5=0x7f09000b;
+        public static final int button6=0x7f09000c;
+        public static final int button7=0x7f090006;
+        public static final int button8=0x7f090007;
+        public static final int button9=0x7f090008;
+        public static final int buttonAns=0x7f090013;
+        public static final int buttonClr=0x7f090005;
+        public static final int buttonDIV=0x7f090009;
+        public static final int buttonDec=0x7f090014;
+        public static final int buttonEquals=0x7f090016;
+        public static final int buttonMinus=0x7f09000d;
+        public static final int buttonMult=0x7f090011;
+        public static final int buttonPI=0x7f090002;
+        public static final int buttonPlus=0x7f090015;
+        public static final int buttonPlusMinus=0x7f090004;
+        public static final int buttonSquared=0x7f090003;
         public static final int inputBox=0x7f090000;
         public static final int outputBox=0x7f090001;
     }
