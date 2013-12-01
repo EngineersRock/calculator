@@ -54,7 +54,8 @@
 	            android:layout_width="match_parent"
 	            android:layout_height="match_parent"
 	            android:text="+/-"
-	            android:background="@drawable/round_button" />
+	            android:background="@drawable/round_button"
+	            android:onClick="altSign" />
 	 
 	        <Button
 	            android:id="@+id/buttonClr"
@@ -188,14 +189,16 @@
 	            android:layout_width="match_parent"
 	            android:layout_height="match_parent"
 	            android:text="Ans"
-	            android:background="@drawable/round_button" />
+	            android:background="@drawable/round_button"
+	            android:onClick="ansClick" />
 	 
 	        <Button
 	            android:id="@+id/buttonDec"
 	            android:layout_width="match_parent"
 	            android:layout_height="match_parent"
 	            android:text="." 
-	            android:background="@drawable/round_button"/>
+	            android:background="@drawable/round_button"
+	            android:onClick="numPress"/>
 	 
 	        <Button
 	            android:id="@+id/buttonPlus"
